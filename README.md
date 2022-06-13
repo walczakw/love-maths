@@ -2,6 +2,8 @@
 
 This maths game is used to teach the basics of JavaScript and the DOM.
 
+[View the live project here](https://walczakw.github.io/love-maths/)
+
 ## REQUIRED (TESTED):
 
 * Add a division game that requires integers as answers
